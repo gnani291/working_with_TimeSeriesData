@@ -112,7 +112,7 @@ Financial Analytics
 Business Intelligence
 Machine Learning Feature Engineering
 
-▶️ How to Run
+▶️  How to Run
 Clone the repository
 git clone https://github.com/your-username/working-with-timeseries-data.git
 Install dependencies
@@ -122,14 +122,14 @@ jupyter notebook working_with_TimeSeries_data.ipynb
 
 or run it directly in Google Colab.
 
-⭐ Future Improvements
+⭐  Future Improvements
 Time Series Forecasting using ARIMA
 Facebook Prophet Integration
 LSTM-based Forecasting
 Seasonal Decomposition
 Trend Analysis
 Anomaly Detection
-👨‍💻 Author
+👨‍💻  Author
 
 Gnani Tadiparthi
 
